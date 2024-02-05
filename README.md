@@ -37,6 +37,8 @@ These are taken from CAD and are just calculations for reference.
 ### NOTES:  
 I have included all the necessary parts in each folder.  
 They should be oriented to print with no issues.  
+-- If you don't see something, or it's oriented incorrectly, please let me know. This project kinda blew up in a hurry and I did my best.   
 The necessary supports are included, and should be discarded after printing.  
 The standard Voron print settings should work quite well here.  
-I only have a Rapido hotend, thus, I have not updated the other hot end cages. I will work on them in the future (in order of the squeakiest wheel).
+I only have a Rapido hotend I am working on others as I see requests. They're located in "Other Printheads".  
+-- If you see something amiss in there, please let me know.
