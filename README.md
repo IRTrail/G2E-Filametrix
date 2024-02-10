@@ -1,7 +1,7 @@
 # G2E and Filametrix
 ## _Modifications for the G2E to have a Filametrix cutter...and a filament sensor option...or two._  
 #### Thanks to sundee, jmaurin, jelliebean, gsx8829, CheeseFrog, and kinematicdigit for suggestions and feedback. Thanks to any of you who have come here and print these parts. You're what it's all about.  
-I am on discord @ silverback_attack.  
+I am on discord @ Silverback_Attack#1187  
 Understand there is no CAD released for the G2 stuff. Reverse engineering it is a total PITA. Ergo, there will likely be some slicer complaints because the stls aren't "watertight". I have done my best. If you want the reverse engineered files I used to start these mods, they're in the aptly named folder. They are not perfect clones because of some intricacies in the CAD process that are difficult to overcome. But they're likely indistinguishable when printed.  
 #### Use at your own risk. It's not my fault your sister is ugly or your tongue hurts when you lick a 9V battery...or anything else. Just saying.  
 
