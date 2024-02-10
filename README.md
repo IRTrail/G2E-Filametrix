@@ -29,24 +29,27 @@ You'll need to print:
 - A front and back of your desired print head.
 	- The rear is often the same between versions of the same hotend. I.E. The Rapido V1 rear will work for the Standart Rapido V1 and the Rapido V1 UHF.
 - The remaining parts from the main G2E repository linked above.
-- The remaining parts from Filametrix linked above (blade holder etc.)
-
+- The remaining parts from Filametrix linked above (blade holder etc.)  
+## Great, what else do I need?
+Well, pretty much what is in the parent repos linked above.
+- The G2E extruder bodies use all the same hardware as the original and the only change was to carve out some material for the arm and switches, and modify the filament path a bit so the switches actuate more reliably. Thus, it uses the same hardware.
+- The Filametrix printheads I have adapted in this repository have a socket head screw instead of a countersink screw at the pivot. Not a big deal, and if you want to modify yours for the countersink, have at it. I just have way more socket head screws laying around than countersink.
+- You'll need two D2F microswitches. I bought a pack of 30 from Amazon. (Affiliate link to the ones I bought: https://amzn.to/3wfdvVp)
+- You'll need two 5.5mm ball bearings. (Affiliate link to the ones I bought: https://amzn.to/4bB7HpA)
+## The more boring stuff, but still important...kinda.
 #### There are now three versions. One is non-sensored, one has a single sensor, the other has two sensors. See the respective folders for CAD, 3MF, and STL files.
 - Unless otherwise stated below, all the build notes from the G2E and Filametrix apply. If you look things over, you should get the idea.
-
 #### There are two arm versions.  
 - One is a wide version which uses the screw in the ADXL hole for a stop.  
 The other is a stylized arm which has an integral stop which does not use the screw. However, it does obscure the ADXL hole somewhat.  
 - I have been told it is a PITA to install with the spring and washers and all without the screw stop. (I didn't know there were supposed to be washers!)
 - The easiest way I have found is with the front and back separated. You put the screw through the pivot point, then add a washer. Then the spring goes in the arm and you simultaneously slide the arm on the screw while guiding the other end of the spring into the recess. Then place the second washer on the screw. Now you can mate the front and back parts of the printhead fairly easily.
 
-## These are measurements for the Rapido 1 with the Twinsor.  
+#### These are measurements for the Rapido 1 with the Twinsor.  
 Other versions use the same measurements, I.E. the Single Sensor has the same measurement, just not the other switch. Other hotends will vary with the length of the hotend.  
-These are taken from CAD and are just calculations for reference.  
+These are taken from CAD and are just calculations for reference. I am not sure what nozzle you use, so just measure it with the stinger of your calipers and add that to these values where asked in the Happy-Hare software. 
 ![Rapido Twinsor Lengths](https://github.com/IRTrail/Voron-Stuff/assets/53546870/a821cf6b-4c67-44a2-a548-0bc05bf0c026)
-
-
-## NOTES:  
+### NOTES:  
 I have included all the necessary parts in each folder...I think. Please let me know of you find something missing.  
 They should be oriented to print with no issues.  
 - If you don't see something, or it's oriented incorrectly, please let me know. This project kinda blew up in a hurry and I did my best.  
