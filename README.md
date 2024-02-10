@@ -34,7 +34,7 @@ You'll need to print:
 Well, pretty much what is in the parent repos linked above.
 - The G2E extruder bodies use all the same hardware as the original and the only change was to carve out some material for the arm and switches, and modify the filament path a bit so the switches actuate more reliably. Thus, it uses the same hardware.
 - The Filametrix printheads I have adapted in this repository have a socket head screw instead of a countersink screw at the pivot. Not a big deal, and if you want to modify yours for the countersink, have at it. I just have way more socket head screws laying around than countersink.
-- You'll need two D2F microswitches. I bought a pack of 30 from Amazon. (Affiliate link to the ones I bought: https://amzn.to/3wfdvVp)
+- You'll need two D2F microswitches. I've been just taking the lever off and it seems to work well. I didn't design for the lever, so if you use it, that's your choice and let me know how it goes. I bought a pack of 30 from Amazon. (Affiliate link to the ones I bought: https://amzn.to/3wfdvVp)
 - You'll need two 5.5mm ball bearings. (Affiliate link to the ones I bought: https://amzn.to/4bB7HpA)
 ## The more boring stuff, but still important...kinda.
 #### There are now three versions. One is non-sensored, one has a single sensor, the other has two sensors. See the respective folders for CAD, 3MF, and STL files.
