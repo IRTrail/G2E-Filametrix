@@ -1,20 +1,21 @@
-
 # G2E and Filametrix
 ## _Modifications for the G2E to have a Filametrix cutter...and a filament sensor option...or two._  
 #### Thanks to sundee, jmaurin, jelliebean, gsx8829, CheeseFrog, and kinematicdigit for suggestions and feedback. Thanks to any of you who have come here and print these parts. You're what it's all about.  
 I am on discord @ Silverback_Attack#1187  
 Understand there is no CAD released for the G2 stuff. Reverse engineering it is a total PITA. Ergo, there will likely be some slicer complaints because the stls aren't "watertight". I have done my best. If you want the reverse engineered files I used to start these mods, they're in the aptly named folder. They are not perfect clones because of some intricacies in the CAD process that are difficult to overcome. But they're likely indistinguishable when printed.  
 #### Use at your own risk. It's not my fault your sister is ugly or your tongue hurts when you lick a 9V battery...or anything else. Just saying.  
+<h1>Baseline - No Sensor - Configuration</h1>
 
-### Non-sensor Config:  
-![Filametrix for G2E - Baseline](https://github.com/IRTrail/Voron-Stuff/assets/53546870/971e3992-9a19-41cd-ba88-7a4262078c5e)   
-![Filametrix for G2E - Baseline_2](https://github.com/IRTrail/Voron-Stuff/assets/53546870/f2b1baad-611c-4490-8393-d75df3c98c23)  
+<p><img alt="Non sensor Version" src="https://github.com/IRTrail/Voron-Stuff/assets/53546870/971e3992-9a19-41cd-ba88-7a4262078c5e" style="height:190px; width:100px" /><img alt="Other side of Non Sensor Version" src="https://github.com/IRTrail/Voron-Stuff/assets/53546870/f2b1baad-611c-4490-8393-d75df3c98c23" style="height:187px; width:100px" /></p>
 
-### Single Sensor Config:  
-![Filametrix for G2E - Single Sensor](https://github.com/IRTrail/Voron-Stuff/assets/53546870/d396f91a-6356-4e1e-9b5f-fdacacf5937b)  
+<h1>Single Sensor Configuration</h1>
 
-### Twin Sensor (Twinsor) Config:  
-![Filametrix for G2E - Twinsor - Hex](https://github.com/IRTrail/Voron-Stuff/assets/53546870/72df904c-5bd1-4afa-8aa7-244e5654a124)  
+<p><img alt="Single Sensor Configuration" src="https://github.com/IRTrail/Voron-Stuff/assets/53546870/d396f91a-6356-4e1e-9b5f-fdacacf5937b" style="height:183px; width:100px" /></p>
+
+<h1>Twinsor (Dual Sensor) Configuration</h1>
+
+<p><img alt="Twinsor" src="https://github.com/IRTrail/Voron-Stuff/assets/53546870/72df904c-5bd1-4afa-8aa7-244e5654a124" style="height:204px; width:100px" /></p>
+  
 
 ### _All Licenses are carried over from their respective creators. Read them here:_
 https://github.com/sorted01/Filametrix  
@@ -53,6 +54,16 @@ The other is a stylized arm which has an integral stop which does not use the sc
 Other versions use the same measurements, I.E. the Single Sensor has the same measurement, just not the other switch. Other hotends will vary with the length of the hotend.  
 These are taken from CAD and are just calculations for reference. I am not sure what nozzle you use, so just measure it with the stinger of your calipers and add that to these values where asked in the Happy-Hare software. 
 ![Rapido Twinsor Lengths](https://github.com/IRTrail/Voron-Stuff/assets/53546870/a821cf6b-4c67-44a2-a548-0bc05bf0c026)
+#### Here's what I have for the Rapido 2 standard flow hotend with the Twinsor. I have found them to be the same as the Rapido 1 standard flow.
+- Note that these are taken from Happy Hare 2.5 Beta ["variables" branch](https://discord.com/channels/460117602945990666/842792223769624605/1208393314332704808).
+- Yours may be located in a different config file if you don't have the same version of Happy Hare.  
+- Also, understand these are what work for me. You may have different values. But, hopefully these are a good starting point for you.  
+
+From mmu_parameters.cfg:  
+![Tool head dimensions from config.png](https://github.com/IRTrail/G2E-Filametrix/blob/main/images/Tool%20head%20dimensions%20from%20config.png?raw=true) 
+![ooze reduction.png](https://github.com/IRTrail/G2E-Filametrix/blob/main/images/ooze%20reduction.png?raw=true)
+From mmu_macro_vars.cfg:   
+![blade position.png](https://github.com/IRTrail/G2E-Filametrix/blob/main/images/blade%20position.png?raw=true)
 ### NOTES:  
 I have included all the necessary parts in each folder...I think. Please let me know of you find something missing.  
 They should be oriented to print with no issues.  
