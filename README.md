@@ -1,4 +1,5 @@
 
+
 # G2E and Filametrix
 ## _Modifications for the G2E to have a Filametrix cutter...and a filament sensor option...or two._  
 #### Thanks to sundee, jmaurin, jelliebean, gsx8829, CheeseFrog, and kinematicdigit for suggestions and feedback. Thanks to any of you who have come here and print these parts. You're what it's all about.  
@@ -25,17 +26,20 @@ https://github.com/sorted01/Filametrix
 https://github.com/JaredC01/Galileo2  
 If not otherwise licensed, the files herein are covered by GPL V3. See LICENSE in this directory.  
 ## Ok, so what do I need to print?  
-You'll need to print:  
-- [KinematicDigit's calibration cube](https://www.printables.com/model/570510-swiss-cheese-calibration-cube). Print this ***FIRST!*** If you can't make this work, tune your printer. Most of the issues with switch activation can be solved with a finely tuned printer. Unfortunately, there's no real good way to get around the 0.5mm activation range of the D2F switch. ***Your prints must be on point!***
-- One front of the G2E extruder body. No sensor, single sensor, or Twinsor. (See below)
-- One G2E extruder rear body. This is the same between all versions.
-- One arm of either version (See below)
+You'll need to print:
+ - [ ] [KinematicDigit's calibration cube](https://www.printables.com/model/570510-swiss-cheese-calibration-cube).
+---
+Print this ***FIRST!*** If you can't make this work, tune your printer. Most of the issues with switch activation can be solved with a finely tuned printer. Unfortunately, there's no real good way to get around the 0.5mm activation range of the D2F switch. ***Your prints must be on point!***
+---  
+ - [ ] One front of the G2E extruder body. No sensor, single sensor, or Twinsor. (See below)
+ - [ ] One G2E extruder rear body. This is the same between all versions.
+ - [ ] One arm of either version (See below)
 	- The Stylized arm works with the printheads here.
 	- The "wide" arm works with the original Filametrix printheads. It also works with the printheads here, but for either, you'll need a screw in the ADXL mount hole, just like the original Filametrix setup.
-- A front and back of your desired print head.
+ - [ ] A front and back of your desired print head.
 	- The rear is often the same between versions of the same hotend. I.E. The Rapido V1 rear will work for the Standart Rapido V1 and the Rapido V1 UHF.
-- The remaining parts from the main G2E repository linked above.
-- The remaining parts from Filametrix linked above (blade holder etc.)  
+ - [ ] The remaining parts from the main G2E repository linked above.
+ - [ ] The remaining parts from Filametrix linked above (blade holder etc.)  
 ## Great, what else do I need?
 Well, pretty much what is in the parent repos linked above.
 - The G2E extruder bodies use all the same hardware as the original and the only change was to carve out some material for the arm and switches, and modify the filament path a bit so the switches actuate more reliably. Thus, it uses the same hardware.
