@@ -1,5 +1,3 @@
-
-
 # G2E and Filametrix
 ## _Modifications for the G2E to have a Filametrix cutter...and a filament sensor option...or two._  
 #### Thanks to sundee, jmaurin, jelliebean, gsx8829, CheeseFrog, and kinematicdigit for suggestions and feedback. Thanks to any of you who have come here and print these parts. You're what it's all about.  
@@ -44,8 +42,8 @@ Print this ***FIRST!*** If you can't make this work, tune your printer. Most of 
 Well, pretty much what is in the parent repos linked above.
 - The G2E extruder bodies use all the same hardware as the original and the only change was to carve out some material for the arm and switches, and modify the filament path a bit so the switches actuate more reliably. Thus, it uses the same hardware.
 - The Filametrix printheads I have adapted in this repository have a socket head screw instead of a countersink screw at the pivot. Not a big deal, and if you want to modify yours for the countersink, have at it. I just have way more socket head screws laying around than countersink.
-- You'll need two D2F microswitches. I've been just taking the lever off and it seems to work well. I didn't design for the lever, so if you use it, that's your choice and let me know how it goes. I bought a pack of 30 from Amazon. (Affiliate link to the ones I bought: https://amzn.to/3wfdvVp)
-- You'll need two 5.5mm ball bearings. (Affiliate link to the ones I bought: https://amzn.to/4bB7HpA)  
+- You'll need two D2F microswitches. I've been just taking the lever off and it seems to work well. I didn't design for the lever, so if you use it, that's your choice and let me know how it goes. I bought a pack of 30 from Amazon. (Affiliate link to the [ones I bought](https://amzn.to/3wfdvVp))
+- You'll need two 5.5mm ball bearings. (Affiliate link to [the ones I bought](https://amzn.to/4bB7HpA) or [these work as well](https://amzn.to/3Vf1sli))  
 ## Right on. But, I'm a true badass and mangled the depressor. Got anything for me?
 You bet'cha. Check out the `Beefy Depressor` folder. It should mount in the same location as the standard one, but hey, you don't know your own strength, so use washers on every M3 x 10 Socket head screw. It's important. Don't be like this guy:  
 ![broken.jpg](https://github.com/IRTrail/G2E-Filametrix/blob/main/Beefy%20Depressor/images/broken.jpg?raw=true)  
