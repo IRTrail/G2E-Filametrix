@@ -66,8 +66,7 @@ These are taken from CAD and are just calculations for reference. I am not sure 
 - Also, understand these are what work for me. You may have different values. But, hopefully these are a good starting point for you.  
 
 From mmu_parameters.cfg:  
-![Tool head dimensions from config.png](https://github.com/IRTrail/G2E-Filametrix/blob/main/images/Tool%20head%20dimensions%20from%20config.png?raw=true) 
-![ooze reduction.png](https://github.com/IRTrail/G2E-Filametrix/blob/main/images/ooze%20reduction.png?raw=true)
+![mmu_parameters](https://github.com/IRTrail/G2E-Filametrix/assets/53546870/b694b0f2-8ff9-45dd-b704-69659f8a9ae5)
 From mmu_macro_vars.cfg:   
 ![blade position.png](https://github.com/IRTrail/G2E-Filametrix/blob/main/images/blade%20position.png?raw=true)
 ### Troubleshooting:
