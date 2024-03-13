@@ -68,7 +68,7 @@ These are taken from CAD and are just calculations for reference. I am not sure 
 From mmu_parameters.cfg:  
 ![mmu_parameters](https://github.com/IRTrail/G2E-Filametrix/assets/53546870/b694b0f2-8ff9-45dd-b704-69659f8a9ae5)
 From mmu_macro_vars.cfg:   
-![blade position.png](https://github.com/IRTrail/G2E-Filametrix/blob/main/images/blade%20position.png?raw=true)
+![mmu_macro_vars](https://github.com/IRTrail/G2E-Filametrix/assets/53546870/60c23db7-0f1e-40f7-a741-d50ed480d1b3)
 ### Troubleshooting:
 If your switches don't activate correctly:
 - Go back and print the swiss cheese calibration block.
