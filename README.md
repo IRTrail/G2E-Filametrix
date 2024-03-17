@@ -1,3 +1,4 @@
+
 # G2E and Filametrix
 ## _Modifications for the G2E to have a Filametrix cutter...and a filament sensor option...or two._  
 #### Thanks to sundee, jmaurin, jelliebean, gsx8829, CheeseFrog, and kinematicdigit for suggestions and feedback. Thanks to any of you who have come here and print these parts. You're what it's all about.  
@@ -56,7 +57,8 @@ The other is a stylized arm which has an integral stop which does not use the sc
 - I have been told it is a PITA to install with the spring and washers and all without the screw stop. (I didn't know there were supposed to be washers!)
 - The easiest way I have found is with the front and back separated. You put the screw through the pivot point, then add a washer. Then the spring goes in the arm and you simultaneously slide the arm on the screw while guiding the other end of the spring into the recess. Then place the second washer on the screw. Now you can mate the front and back parts of the printhead fairly easily.
 
-#### These are measurements for the Rapido 1 with the Twinsor.  
+<details>
+<summary>These are measurements for the Rapido 1 with the Twinsor. </summary> 
 Other versions use the same measurements, I.E. the Single Sensor has the same measurement, just not the other switch. Other hotends will vary with the length of the hotend.  
 These are taken from CAD and are just calculations for reference. I am not sure what nozzle you use, so just measure it with the stinger of your calipers and add that to these values where asked in the Happy-Hare software. 
 ![Rapido Variables](https://github.com/IRTrail/G2E-Filametrix/assets/53546870/7c532d00-b54f-4a1f-99e9-4abc08bdaa8b)
@@ -69,6 +71,8 @@ From mmu_parameters.cfg:
 ![mmu_parameters](https://github.com/IRTrail/G2E-Filametrix/assets/53546870/b694b0f2-8ff9-45dd-b704-69659f8a9ae5)
 From mmu_macro_vars.cfg:   
 ![mmu_macro_vars](https://github.com/IRTrail/G2E-Filametrix/assets/53546870/60c23db7-0f1e-40f7-a741-d50ed480d1b3)
+</details>
+
 ### Troubleshooting:
 If your switches don't activate correctly:
 - Go back and print the swiss cheese calibration block.
