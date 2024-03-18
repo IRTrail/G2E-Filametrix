@@ -72,7 +72,8 @@ From mmu_macro_vars.cfg:
 ![mmu_macro_vars](https://github.com/IRTrail/G2E-Filametrix/assets/53546870/60c23db7-0f1e-40f7-a741-d50ed480d1b3)
 
 ### Revo
-![image](https://github.com/IRTrail/G2E-Filametrix/assets/53546870/43c72d0e-b89d-4fb6-b7ae-fc93a39379fa)
+![image](https://github.com/IRTrail/G2E-Filametrix/assets/53546870/43c72d0e-b89d-4fb6-b7ae-fc93a39379fa)  
+<ins>_These are only measured from CAD and not tested._</ins>
 ### Troubleshooting:
 If your switches don't activate correctly:
 - Go back and print the swiss cheese calibration block.
