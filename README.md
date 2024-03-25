@@ -75,8 +75,10 @@ From mmu_macro_vars.cfg:
 ### Revo
 <p align="center">
 	<img src="https://github.com/IRTrail/G2E-Filametrix/assets/53546870/43c72d0e-b89d-4fb6-b7ae-fc93a39379fa" />
-</p>
-<ins>_These are only measured from CAD and not tested._</ins>
+</p>  
+
+<ins>_These are only measured from CAD and not tested._</ins>  
+
 ### Troubleshooting:
 If your switches don't activate correctly:
 - Go back and print the swiss cheese calibration block.
