@@ -5,8 +5,11 @@
 #### Special thanks to JaredC01 and Sorted for their amazing designs.
 I am on discord @ Silverback_Attack#1187  
 This version is based on the released CAD from JaredC01. For any parts not included here, you'll need to go to that repository.  
-I have depreciated the single and non-sensor versions since I have not heard of anyone using them. If you want them, the versions previously here and based on beta CAD are in the `Depreciated` branch of this repo. I have no plans to continue supporting the other versions.
-Also, because I want to be transparent with you my esteemed colleagues, I have an affiliate status with Amazon, and get a tiny kickback if you click and buy on the links. I'll only suggest stuff I have used and had success with though.
+
+I have depreciated the single and non-sensor versions since I have not heard of anyone using them. If you want them, the versions previously here and based on beta CAD are in the `Depreciated` branch of this repo. I have no plans to continue supporting the other versions.  
+
+Also, because I want to be transparent with you my esteemed colleagues, I have an affiliate status with Amazon, and get a tiny kickback if you click and buy on the links. I'll only suggest stuff I have used and had success with though.  
+
 #### Use at your own risk. It's not my fault your sister is ugly or your tongue hurts when you lick a 9V battery...or anything else. Just saying.  
 <h1>The G2E-Filametrix "Twinsor" (Dual Sensor)</h1>
 
