@@ -79,6 +79,10 @@ If your switches don't activate correctly:
 - Go back and print the swiss cheese calibration block.
 - Tune your printer using [Ellis' guide](https://ellis3dp.com/Print-Tuning-Guide/). Step through it one step at a time and DON'T SKIP ANY STEPS.
 - Try a different switch. I have found that some of the Amazonium switches vary in their activation range. Chances are a different switch (even from the same box of 50 you bought) will work better. I bought [these (affilate link)](https://amzn.to/49HGtfB) and they are decent. I haven't had much issue with them, but most of the time, if a user's print is dialed in, a different switch will help.
+### Input Shaper and Resonance Tuning
+I have found that the balls tend to rattle around and make an extra hump in the frequency graph. So, because you've changed the mass of the toolhead and are going to redo input shaper (...right?) I would suggest just cutting off about a 15cm length of filament and pushing that throught the printhead to hold the balls steady, or just feed filament from the MMU down to the toolhead. Then run input shaper. That tends to make a more realistic graph since there will be filament in the printhead while printing.  
+### A few words about the blade
+I have found the #4 blades to be of poor to low quality through Amazon. [I got these](https://amzn.to/3PAReIw). The steel seems to be good, but the edge isn't honed well. I would suggest a few swipes across a sharpening stone to hone it to a keen edge.
 ### NOTES:  
 I have included all the necessary parts in each folder...I think. Please let me know of you find something missing.  
 They should be oriented to print with no issues.  
