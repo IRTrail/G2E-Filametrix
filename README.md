@@ -3,7 +3,7 @@
 ## _Modifications for the G2E to have a Filametrix cutter and toolhead sensors._  
 #### Thanks to sundee, jmaurin, jelliebean, gsx8829, CheeseFrog, and kinematicdigit for suggestions and feedback. Thanks to any of you who have come here and print these parts. You're what it's all about.  
 #### Special thanks to JaredC01 and Sorted for their amazing designs.
-I am on discord @ Silverback_Attack#1187  
+I am on discord @ Silverback_Attack
 This version is based on the released CAD from JaredC01. For any parts not included here, you'll need to go to that repository.  
 
 I have depreciated the single and non-sensor versions since I have not heard of anyone using them. If you want them, the versions previously here and based on beta CAD are in the `Depreciated` branch of this repo. I have no plans to continue supporting the other versions.  
