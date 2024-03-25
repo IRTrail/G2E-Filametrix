@@ -1,24 +1,18 @@
 
 # G2E and Filametrix
-## _Modifications for the G2E to have a Filametrix cutter...and a filament sensor option...or two._  
+## _Modifications for the G2E to have a Filametrix cutter and toolhead sensors._  
 #### Thanks to sundee, jmaurin, jelliebean, gsx8829, CheeseFrog, and kinematicdigit for suggestions and feedback. Thanks to any of you who have come here and print these parts. You're what it's all about.  
 #### Special thanks to JaredC01 and Sorted for their amazing designs.
 I am on discord @ Silverback_Attack#1187  
-Understand there is no CAD released for the G2 stuff. Reverse engineering it is a total PITA. Ergo, there will likely be some slicer complaints because the stls aren't "watertight". I have done my best. If you want the reverse engineered files I used to start these mods, they're in the aptly named folder. They are not perfect clones because of some intricacies in the CAD process that are difficult to overcome. But they're likely indistinguishable when printed.  
+This version is based on the released CAD from JaredC01. For any parts not included here, you'll need to go to that repository.  
+I have depreciated the single and non-sensor versions since I have not heard of anyone using them. If you want them, the versions previously here and based on beta CAD are in the `Depreciated` branch of this repo. I have no plans to continue supporting the other versions.
 Also, because I want to be transparent with you my esteemed colleagues, I have an affiliate status with Amazon, and get a tiny kickback if you click and buy on the links. I'll only suggest stuff I have used and had success with though.
 #### Use at your own risk. It's not my fault your sister is ugly or your tongue hurts when you lick a 9V battery...or anything else. Just saying.  
-<h1>Baseline - No Sensor - Configuration</h1>
+<h1>The G2E-Filametrix "Twinsor" (Dual Sensor)</h1>
 
-<p><img alt="Non sensor Version" src="https://github.com/IRTrail/Voron-Stuff/assets/53546870/971e3992-9a19-41cd-ba88-7a4262078c5e" style="height:190px; width:100px" /><img alt="Other side of Non Sensor Version" src="https://github.com/IRTrail/Voron-Stuff/assets/53546870/f2b1baad-611c-4490-8393-d75df3c98c23" style="height:187px; width:100px" /></p>
-
-<h1>Single Sensor Configuration</h1>
-
-<p><img alt="Single Sensor Configuration" src="https://github.com/IRTrail/Voron-Stuff/assets/53546870/d396f91a-6356-4e1e-9b5f-fdacacf5937b" style="height:183px; width:100px" /></p>
-
-<h1>Twinsor (Dual Sensor) Configuration</h1>
-
-<p><img alt="Twinsor" src="https://github.com/IRTrail/Voron-Stuff/assets/53546870/72df904c-5bd1-4afa-8aa7-244e5654a124" style="height:204px; width:100px" /></p>
-  
+<p align="center">
+	<img src="https://github.com/IRTrail/Voron-Stuff/assets/53546870/72df904c-5bd1-4afa-8aa7-244e5654a124" alt="Twinsor" width="354" height="722" />
+</p>
 
 ### _All Licenses are carried over from their respective creators. Read them here:_
 https://github.com/sorted01/Filametrix  
@@ -26,17 +20,18 @@ https://github.com/JaredC01/Galileo2
 If not otherwise licensed, the files herein are covered by GPL V3. See LICENSE in this directory.  
 ## Ok, so what do I need to print?  
 You'll need to print:
- - [ ] [KinematicDigit's calibration cube](https://www.printables.com/model/570510-swiss-cheese-calibration-cube).
 ---
-Print this ***FIRST!*** If you can't make this work, tune your printer. Most of the issues with switch activation can be solved with a finely tuned printer. Unfortunately, there's no real good way to get around the 0.5mm activation range of the D2F switch. ***Your prints must be on point!***
+[KinematicDigit's calibration cube](https://www.printables.com/model/570510-swiss-cheese-calibration-cube)  
+Print this ***FIRST!*** If you can't make this work, tune your printer. Most of the issues with switch activation can be solved with a finely tuned printer. Unfortunately, there's no real good way to get around the 0.5mm activation range of the D2F switch. ***Your prints must be on point!***  
+Furthermore, if you ask me why your switches don't work correctly, I'll likely ask to see some detailed photos of this cube and the ERCF calibration print.
 ---  
- - [ ] One front of the G2E extruder body. No sensor, single sensor, or Twinsor. (See below)
+ - [ ] One front of the G2E extruder body.
  - [ ] One G2E extruder rear body. This is the same between all versions.
  - [ ] One arm of either version (See below)
 	- The Stylized arm works with the printheads here.
 	- The "wide" arm works with the original Filametrix printheads. It also works with the printheads here, but for either, you'll need a screw in the ADXL mount hole, just like the original Filametrix setup.
  - [ ] A front and back of your desired print head.
-	- The rear is often the same between versions of the same hotend. I.E. The Rapido V1 rear will work for the Standart Rapido V1 and the Rapido V1 UHF.
+	- The rear is often the same between versions of the same hotend. I.E. The Rapido V1 rear will work for the Standard Rapido V1 and the Rapido V1 UHF.
  - [ ] The remaining parts from the main G2E repository linked above.
  - [ ] The remaining parts from Filametrix linked above (blade holder etc.)  
 ## Great, what else do I need?
@@ -47,9 +42,10 @@ Well, pretty much what is in the parent repos linked above.
 - You'll need two 5.5mm ball bearings. (Affiliate link to [the ones I bought](https://amzn.to/4bB7HpA) or [these work as well](https://amzn.to/3Vf1sli))  
 ## Right on. But, I'm a true badass and mangled the depressor. Got anything for me?
 You bet'cha. Check out the `Beefy Depressor` folder. It should mount in the same location as the standard one, but hey, you don't know your own strength, so use washers on every M3 x 10 Socket head screw. It's important. Don't be like this guy:  
-![broken.jpg](https://github.com/IRTrail/G2E-Filametrix/blob/main/Beefy%20Depressor/images/broken.jpg?raw=true)  
+<p align="center">
+	<img src="https://github.com/IRTrail/G2E-Filametrix/blob/main/Beefy%20Depressor/images/broken.jpg?raw=true" alt="busted depressor" width="400" height="301" />
+</p>  
 ## The more boring stuff, but still important...kinda.
-#### There are now three versions. One is non-sensored, one has a single sensor, the other has two sensors. See the respective folders for CAD, 3MF, and STL files.
 - Unless otherwise stated below, all the build notes from the G2E and Filametrix apply. If you look things over, you should get the idea.
 #### There are two arm versions.  
 - One is a wide version which uses the screw in the ADXL hole for a stop.  
@@ -60,7 +56,9 @@ The other is a stylized arm which has an integral stop which does not use the sc
 ## Extruder and Hotend Measurements
 These are taken from CAD and are just calculations for reference. I am not sure what nozzle you use, so just measure it with the stinger of your calipers and add that to these values where asked in the Happy-Hare software.
 ### Rapido 1:
-![Rapido Variables](https://github.com/IRTrail/G2E-Filametrix/assets/53546870/7c532d00-b54f-4a1f-99e9-4abc08bdaa8b)
+<p align="center">
+	<img src="https://github.com/IRTrail/G2E-Filametrix/assets/53546870/7c532d00-b54f-4a1f-99e9-4abc08bdaa8b" />
+</p>
 #### Here's what I have for the Rapido 2 standard flow hotend with the Twinsor. I have found them to be the same as the Rapido 1 standard flow.
 - Note that these are taken from Happy Hare 2.5.0.
 - Yours may be located in a different config file if you don't have the same version of Happy Hare.  
@@ -72,7 +70,9 @@ From mmu_macro_vars.cfg:
 ![mmu_macro_vars](https://github.com/IRTrail/G2E-Filametrix/assets/53546870/60c23db7-0f1e-40f7-a741-d50ed480d1b3)
 
 ### Revo
-![image](https://github.com/IRTrail/G2E-Filametrix/assets/53546870/43c72d0e-b89d-4fb6-b7ae-fc93a39379fa)  
+<p align="center">
+	<img src="https://github.com/IRTrail/G2E-Filametrix/assets/53546870/43c72d0e-b89d-4fb6-b7ae-fc93a39379fa" />
+</p>
 <ins>_These are only measured from CAD and not tested._</ins>
 ### Troubleshooting:
 If your switches don't activate correctly:
