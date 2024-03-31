@@ -23,7 +23,8 @@ https://github.com/sorted01/Filametrix
 https://github.com/JaredC01/Galileo2  
 If not otherwise licensed, the files herein are covered by GPL V3. See LICENSE in this directory.  
 ## Ok, so what do I need to print?  
-You'll need to print:
+You'll need to print:  
+
 ###[KinematicDigit's calibration cube](https://www.printables.com/model/570510-swiss-cheese-calibration-cube)  
 
 <b><ins>Print this ***FIRST!*** If you can't make this work, tune your printer. Most of the issues with switch activation can be solved with a finely tuned printer. Unfortunately, there's no real good way to get around the 0.5mm activation range of the D2F switch. ***Your prints must be on point!***  
