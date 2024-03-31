@@ -30,11 +30,13 @@ You'll need to print:
 Furthermore, if you ask me why your switches don't work correctly, I'll likely ask to see some detailed photos of this cube and the ERCF calibration print.</b></ins>  
 
 Also, I have provided a switch test block. You can print one, install a ball and switch, and see how it works without printing the entire front body.  
+
 [Switch test block](https://github.com/IRTrail/G2E-Filametrix/tree/main/Print%20Test%20Block)  
-You should be able to pass filament through it with no perceptable drag before installing the switch.  
-After installing the switch and ball, the ball should rattle a bit if you shake the block without filament in it. It's a drop in (and fall out...again...and again...) clearance.  
-The switch should activate reliably.  
-If it doesn't, go back and tune your prints. I know, you've been printing since dot matrix was a thing and the PIF guys ask you for advice on making better prints. I get it. I do. But, seriously, go back and tune your prints. Every issue, except two, has come down to print quality. So, <b><ins>go back and tune your printer.</ins></b>
+
+- You should be able to pass filament through it with no perceptable drag before installing the switch.
+- After installing the switch and ball, the ball should rattle a bit if you shake the block without filament in it. It's a drop in (and fall out...again...and again...) clearance.  
+- The switch should activate reliably.  
+- If it doesn't, go back and tune your prints. I know, you've been printing since dot matrix was a thing and the PIF guys ask you for advice on making better prints. I get it. I do. But, seriously, go back and tune your prints. Every issue, except two, has come down to print quality. So, <b><ins>go back and tune your printer.</ins></b>
 
 
  - [ ] One front of the G2E extruder body.
