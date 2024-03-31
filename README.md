@@ -37,9 +37,12 @@ Furthermore, if you ask me why your switches don't work correctly, I'll likely a
 
 I have provided a switch test block. You can print one, install a ball and switch, and see how it works without printing the entire front body.  
 - You should be able to pass filament through it with no perceptable drag before installing the switch.
-- After installing the switch and ball, the ball should rattle a bit if you shake the block without filament in it. It's a drop in (and fall out...again...and again...) clearance.  
-- The switch should activate reliably.  
-- If it doesn't, go back and tune your prints. I know, you've been printing since dot matrix was a thing and the PIF guys ask you for advice on making better prints. I get it. I do. But, seriously, go back and tune your prints. Every issue, except two, has come down to print quality. So, <b><ins>go back and tune your printer.</ins></b>
+- The ball should drop in to the cavity. No forcing it at all. Literaly just drop into place.
+- The switch should fit snugly with a slight push. It should not need forced.
+- The support should pop out with little trouble
+- After installing the switch and ball, the ball should rattle a bit if you shake the block without filament in it.   
+- The switch should activate reliably.
+- If something above isn't right, go back and tune your prints. I know, you've been printing since dot matrix was a thing and the PIF guys ask you for advice on making better prints. I get it. I do. But, seriously, go back and tune your prints. Every issue, except two, has come down to print quality. So, <b><ins>go back and tune your printer.</ins></b>
 
 ### After tuning your printer, print these:
  - [ ] One front of the G2E extruder body.
