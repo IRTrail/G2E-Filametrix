@@ -22,11 +22,15 @@ Also, because I want to be transparent with you my esteemed colleagues, I have a
 https://github.com/sorted01/Filametrix  
 https://github.com/JaredC01/Galileo2  
 If not otherwise licensed, the files herein are covered by GPL V3. See LICENSE in this directory.  
+
 ## Ok, so what do I need to print?  
 You'll need to print:  
 ### [KinematicDigit's calibration cube](https://www.printables.com/model/570510-swiss-cheese-calibration-cube)  
 
-<b><ins>Print this ***FIRST!*** If you can't make this work, tune your printer. Most of the issues with switch activation can be solved with a finely tuned printer. Unfortunately, there's no real good way to get around the 0.5mm activation range of the D2F switch. ***Your prints must be on point!***  
+<b><ins>Print this ***FIRST!*** If you can't make this work, tune your printer. Most of the issues with switch activation can be solved with a finely tuned printer. Unfortunately, there's no real good way to get around the 0.5mm activation range of the D2F switch.  
+
+***Your prints must be on point!***   
+
 Furthermore, if you ask me why your switches don't work correctly, I'll likely ask to see some detailed photos of this cube and the ERCF calibration print.</b></ins>  
 
 Also, I have provided a switch test block. You can print one, install a ball and switch, and see how it works without printing the entire front body.  
@@ -38,7 +42,7 @@ Also, I have provided a switch test block. You can print one, install a ball and
 - The switch should activate reliably.  
 - If it doesn't, go back and tune your prints. I know, you've been printing since dot matrix was a thing and the PIF guys ask you for advice on making better prints. I get it. I do. But, seriously, go back and tune your prints. Every issue, except two, has come down to print quality. So, <b><ins>go back and tune your printer.</ins></b>
 
-
+### After tuning your printer, print these:
  - [ ] One front of the G2E extruder body.
  - [ ] One G2E extruder rear body. This is the same between all versions.
  - [ ] One arm of either version (See below)
