@@ -49,8 +49,10 @@ You bet'cha. Check out the `Beefy Depressor` folder. It should mount in the same
 <p align="center">
 	<img src="https://github.com/IRTrail/G2E-Filametrix/blob/main/Beefy%20Depressor/images/broken.jpg?raw=true" alt="busted depressor" width="400" height="301" />
 </p>  
+
 ## The more boring stuff, but still important...kinda.
 - Unless otherwise stated below, all the build notes from the G2E and Filametrix apply. If you look things over, you should get the idea.  
+
 #### There are two arm versions.  
 - One is a wide version which uses the screw in the ADXL hole for a stop.  
 The other is a stylized arm which has an integral stop which does not use the screw. However, it does obscure the ADXL hole somewhat.  
