@@ -24,11 +24,11 @@ https://github.com/JaredC01/Galileo2
 If not otherwise licensed, the files herein are covered by GPL V3. See LICENSE in this directory.  
 ## Ok, so what do I need to print?  
 You'll need to print:
----
-[KinematicDigit's calibration cube](https://www.printables.com/model/570510-swiss-cheese-calibration-cube)  
-Print this ***FIRST!*** If you can't make this work, tune your printer. Most of the issues with switch activation can be solved with a finely tuned printer. Unfortunately, there's no real good way to get around the 0.5mm activation range of the D2F switch. ***Your prints must be on point!***  
-Furthermore, if you ask me why your switches don't work correctly, I'll likely ask to see some detailed photos of this cube and the ERCF calibration print.
----  
+###[KinematicDigit's calibration cube](https://www.printables.com/model/570510-swiss-cheese-calibration-cube)  
+
+<b><ins>Print this ***FIRST!*** If you can't make this work, tune your printer. Most of the issues with switch activation can be solved with a finely tuned printer. Unfortunately, there's no real good way to get around the 0.5mm activation range of the D2F switch. ***Your prints must be on point!***  
+Furthermore, if you ask me why your switches don't work correctly, I'll likely ask to see some detailed photos of this cube and the ERCF calibration print.</b></ins>  
+
  - [ ] One front of the G2E extruder body.
  - [ ] One G2E extruder rear body. This is the same between all versions.
  - [ ] One arm of either version (See below)
