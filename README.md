@@ -50,19 +50,20 @@ You bet'cha. Check out the `Beefy Depressor` folder. It should mount in the same
 	<img src="https://github.com/IRTrail/G2E-Filametrix/blob/main/Beefy%20Depressor/images/broken.jpg?raw=true" alt="busted depressor" width="400" height="301" />
 </p>  
 ## The more boring stuff, but still important...kinda.
-- Unless otherwise stated below, all the build notes from the G2E and Filametrix apply. If you look things over, you should get the idea.
+- Unless otherwise stated below, all the build notes from the G2E and Filametrix apply. If you look things over, you should get the idea.  
 #### There are two arm versions.  
 - One is a wide version which uses the screw in the ADXL hole for a stop.  
 The other is a stylized arm which has an integral stop which does not use the screw. However, it does obscure the ADXL hole somewhat.  
 - I have been told it is a PITA to install with the spring and washers and all without the screw stop. (I didn't know there were supposed to be washers!)
-- The easiest way I have found is with the front and back separated. You put the screw through the pivot point, then add a washer. Then the spring goes in the arm and you simultaneously slide the arm on the screw while guiding the other end of the spring into the recess. Then place the second washer on the screw. Now you can mate the front and back parts of the printhead fairly easily.
+- The easiest way I have found is with the front and back separated. You put the screw through the pivot point, then add a washer. Then the spring goes in the arm and you simultaneously slide the arm on the screw while guiding the other end of the spring into the recess. Then place the second washer on the screw. Now you can mate the front and back parts of the printhead fairly easily.  
 
 ## Extruder and Hotend Measurements
 These are taken from CAD and are just calculations for reference. I am not sure what nozzle you use, so just measure it with the stinger of your calipers and add that to these values where asked in the Happy-Hare software.
 ### Rapido 1:
 <p align="center">
 	<img src="https://github.com/IRTrail/G2E-Filametrix/assets/53546870/7c532d00-b54f-4a1f-99e9-4abc08bdaa8b" />
-</p>
+</p>  
+
 #### Here's what I have for the Rapido 2 standard flow hotend with the Twinsor. I have found them to be the same as the Rapido 1 standard flow.
 - Note that these are taken from Happy Hare 2.5.0.
 - Yours may be located in a different config file if you don't have the same version of Happy Hare.  
