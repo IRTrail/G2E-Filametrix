@@ -27,16 +27,15 @@ If not otherwise licensed, the files herein are covered by GPL V3. See LICENSE i
 You'll need to print:  
 ### [KinematicDigit's calibration cube](https://www.printables.com/model/570510-swiss-cheese-calibration-cube)  
 
-<b><ins>Print this ***FIRST!*** If you can't make this work, tune your printer. Most of the issues with switch activation can be solved with a finely tuned printer. Unfortunately, there's no real good way to get around the 0.5mm activation range of the D2F switch.  
+<b><ins>Print this ***FIRST!***</ins> If you can't make this work, tune your printer. Most of the issues with switch activation can be solved with a finely tuned printer. Unfortunately, there's no real good way to get around the 0.5mm activation range of the D2F switch.  
 
-***Your prints must be on point!***   
+<ins>***Your prints must be on point!***</ins>   
 
-Furthermore, if you ask me why your switches don't work correctly, I'll likely ask to see some detailed photos of this cube and the ERCF calibration print.</b></ins>  
+Furthermore, if you ask me why your switches don't work correctly, I'll likely ask to see some detailed photos of this cube and the ERCF calibration print.</b>  
 
-Also, I have provided a switch test block. You can print one, install a ball and switch, and see how it works without printing the entire front body.  
+### [Switch test block](https://github.com/IRTrail/G2E-Filametrix/tree/main/Print%20Test%20Block)  
 
-[Switch test block](https://github.com/IRTrail/G2E-Filametrix/tree/main/Print%20Test%20Block)  
-
+I have provided a switch test block. You can print one, install a ball and switch, and see how it works without printing the entire front body.  
 - You should be able to pass filament through it with no perceptable drag before installing the switch.
 - After installing the switch and ball, the ball should rattle a bit if you shake the block without filament in it. It's a drop in (and fall out...again...and again...) clearance.  
 - The switch should activate reliably.  
