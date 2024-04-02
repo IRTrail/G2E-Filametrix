@@ -43,6 +43,7 @@ I have provided a switch test block. You can print one, install a ball and switc
 - After installing the switch and ball, the ball should rattle a bit if you shake the block without filament in it.   
 - The switch should activate reliably.
 - If something above isn't right, go back and tune your prints. I know, you've been printing since dot matrix was a thing and the PIF guys ask you for advice on making better prints. I get it. I do. But, seriously, go back and tune your prints. Every issue, except two, has come down to print quality. So, <b><ins>go back and tune your printer.</ins></b>
+- [Here's a short video](https://youtu.be/y9Mo5xBN0B0)
 
 ### After tuning your printer, print these:
  - [ ] One front of the G2E extruder body.
